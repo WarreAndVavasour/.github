@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="warre &amp; vavasour, a Western Canada AI lab">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0807"/>
+      <stop offset="0.62" stop-color="#1c120c"/>
+      <stop offset="1" stop-color="#3a2310"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.78" r="0.5">
+      <stop offset="0" stop-color="#d9a441" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#d9a441" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#sky)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+  <circle cx="985" cy="198" r="24" fill="#d9a441"/>
+  <!-- ridge line, Bow Valley -->
+  <path d="M0 236 L120 214 L190 226 L270 178 L330 204 L410 160 L470 196 L540 182 L600 150 L660 188 L740 170 L820 204 L900 176 L980 210 L1060 192 L1200 224 L1200 250 L0 250 Z" fill="#140d09"/>
+  <rect x="0" y="248" width="1200" height="2" fill="#e8c277"/>
+  <rect x="0" y="250" width="1200" height="70" fill="#0a0807"/>
+  <text x="600" y="104" text-anchor="middle" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="58" font-weight="400" fill="#f3e6cf" letter-spacing="1">warre <tspan fill="#d9a441" font-style="italic">&amp;</tspan> vavasour</text>
+  <text x="600" y="142" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#c9b79a" letter-spacing="4">A WESTERN CANADA AI LAB · CANMORE, ALBERTA</text>
+  <text x="600" y="292" text-anchor="middle" font-family="'Inter Tight', Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e8c277" letter-spacing="1">Real tools for people doing real work.</text>
+</svg>

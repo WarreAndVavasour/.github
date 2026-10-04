@@ -1,4 +1,8 @@
-# warre & vavasour
+<p align="center">
+  <a href="https://www.warreandvavasour.com/">
+    <img src="./banner.svg" alt="warre & vavasour — a Western Canada AI lab, Canmore, Alberta" width="100%" />
+  </a>
+</p>
 
 **Real tools for real work.**
 
@@ -18,9 +22,13 @@ Search and daily briefs are free. Tender review and bid-room tools are available
 
 ### Give business ideas a place to become real
 
-The [WorkspaceAlberta harness](https://github.com/WarreAndVavasour/workspacealberta-harness) is the working terminal behind our supported physical workspace. It connects tools, works with files, and produces documents and other usable artifacts.
+The [AI Terminal](https://www.warreandvavasour.com/terminal) is a supported physical workspace installed in the owner's office for a fixed term, always on and privately connected. The [WorkspaceAlberta harness](https://github.com/WarreAndVavasour/workspacealberta-harness) is the working terminal behind it. It connects tools, works with files, and produces documents and other usable artifacts.
 
 Bring the new product you've been thinking about, the service your team could offer, or the awkward task nobody has had time to fix. We install the workspace, get to know the business, and stay alongside the work. We call it the family doctor model of support.
+
+### Bring us your million-dollar problem
+
+You know the idea that could be worth a million dollars; you just don't have the bandwidth to build it. [Bring it to us.](https://www.warreandvavasour.com/million) We install a Terminal on site at no cost, train one key operator, set a timeline, and work the problem with you for that fixed term.
 
 ### Teach people to use the tools on their own work
 
@@ -42,7 +50,7 @@ The lab is allowed to be strange; the tools must be plain.
 
 - **Looking for contracts?** Start with [WorkspaceAlberta](https://www.warreandvavasour.com/workspacealberta).
 - **Working with the code?** Explore the [procurement server](https://github.com/WarreAndVavasour/WorkspaceAlberta) and the [working terminal](https://github.com/WarreAndVavasour/workspacealberta-harness).
-- **Have a business problem worth building around?** [Tell us what you're trying to do](mailto:hello@warreandvavasour.com).
+- **Have a million-dollar problem?** [Tell us what you're trying to build](https://www.warreandvavasour.com/million).
 
 <details>
 <summary>Connect WorkspaceAlberta to an MCP-capable assistant</summary>
@@ -66,6 +74,7 @@ Client setup options are in the [WorkspaceAlberta README](https://github.com/War
 
 ---
 
-[warreandvavasour.com](https://www.warreandvavasour.com/) · [hello@warreandvavasour.com](mailto:hello@warreandvavasour.com) · Canmore, Alberta
-
-*Canadian demand, Canadian tools.*
+<p align="center">
+  <a href="https://www.warreandvavasour.com/">warreandvavasour.com</a> · <a href="mailto:hello@warreandvavasour.com">hello@warreandvavasour.com</a> · Canmore, Alberta<br />
+  <em>Canadian demand, Canadian tools.</em>
+</p>
